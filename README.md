@@ -1,6 +1,3 @@
-# dl-multisource-super-resolution-core
-Core PyTorch implementation for multi-source image super-resolution.
-
 # Multi-source Image Super-Resolution (Core)
 
 This repository provides the core PyTorch implementation for
